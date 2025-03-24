@@ -35,5 +35,5 @@ This repository contains my personal Vim/Neovim configuration built with [vim-pl
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/yourvimconfig.git
-   cd yourvimconfig
+   git clone https://github.com/Fliptoss/nvim-config.git
+   cd nvim-config
